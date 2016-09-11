@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vasekric/spring-rest-utils.svg?branch=master)](https://travis-ci.org/vasekric/spring-rest-utils)
+
 # Spring Utils&Helpers
 - Goal is to extract duplicated utils and helpers classes from my projects
 
