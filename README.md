@@ -3,6 +3,26 @@
 # Spring Utils&Helpers
 - Goal is to extract duplicated utils and helpers classes from my projects
 
+## How to add library via maven
+- This repository is hosted on https://jitpack.io/
+```xml
+<repositories>
+  <repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+  </repository>
+</repositories>
+```
+```xml
+<dependencies>
+  <dependency>
+    <groupId>com.github.vasekric</groupId>
+    <artifactId>spring-rest-utils</artifactId>
+    <version>v0.1</version>
+  </dependency>
+</dependencies>
+```
+
 
 ## Pagination and fields filtering
 - Goal is to simply provide better APIs with pagination and response field filtering by default.
